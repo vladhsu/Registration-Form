@@ -1,6 +1,6 @@
 # Interactive Registration Form
 
-Welcome to our interactive registration form, a user-friendly application built with React. This application provides a seamless user registration process, complete with a personalized greeting page upon successful login. It requires the user to input their username, email, and password. An added feature is a toggle button that allows users to show or hide their password for enhanced security.
+Welcome, this is my registration form, a user-friendly application built with React. This application provides a seamless user registration process, complete with a personalized greeting page upon successful login. It requires the user to input their username, email, and password. An added feature is a toggle button that allows users to show or hide their password for enhanced security.
 
 ## Key Features
 
